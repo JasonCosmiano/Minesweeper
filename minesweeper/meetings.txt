@@ -1,0 +1,13 @@
+date/time      location     area of focus
+
+part 1
+3/25 @8:00PM   Zoom    Cells and board
+3/27 @7:00PM    Zoom    Finishing up
+
+part 2
+4/4 @7:00PM     Zoom        GUI
+4/5 @7:00PM     Zoom    Finishing touches
+
+part 3
+4/9 @5pm       Zoom        Finish up
+
